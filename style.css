@@ -17,7 +17,7 @@ h1 {
   text-align: center;
   padding-top: 15px;
   font-size: 45px;
-  border: 1px, solid, black
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
 }
 
 #message-el {
